@@ -1,0 +1,8 @@
+C:\멋사7기\Lion7\project105\project105\bin\Debug\project105.exe.config
+C:\멋사7기\Lion7\project105\project105\bin\Debug\project105.exe
+C:\멋사7기\Lion7\project105\project105\bin\Debug\project105.pdb
+C:\멋사7기\Lion7\project105\project105\obj\Debug\project105.csproj.AssemblyReference.cache
+C:\멋사7기\Lion7\project105\project105\obj\Debug\project105.csproj.CoreCompileInputs.cache
+C:\멋사7기\Lion7\project105\project105\obj\Debug\project105.exe
+C:\멋사7기\Lion7\project105\project105\obj\Debug\project105.pdb
+C:\멋사7기\Lion7\project105\project105\obj\Debug\project105.exe.config
