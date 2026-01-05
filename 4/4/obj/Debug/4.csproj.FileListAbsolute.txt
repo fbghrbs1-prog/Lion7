@@ -1,0 +1,8 @@
+C:\멋사7기\4\4\obj\Debug\4.csproj.AssemblyReference.cache
+C:\멋사7기\4\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\멋사7기\4\4\bin\Debug\4.exe.config
+C:\멋사7기\4\4\bin\Debug\4.exe
+C:\멋사7기\4\4\bin\Debug\4.pdb
+C:\멋사7기\4\4\obj\Debug\4.exe
+C:\멋사7기\4\4\obj\Debug\4.pdb
+C:\멋사7기\4\4\obj\Debug\4.exe.config
