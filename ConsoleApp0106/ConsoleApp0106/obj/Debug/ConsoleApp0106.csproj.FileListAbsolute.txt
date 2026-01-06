@@ -1,0 +1,8 @@
+C:\멋사7기\Lion7\ConsoleApp0106\ConsoleApp0106\bin\Debug\ConsoleApp0106.exe.config
+C:\멋사7기\Lion7\ConsoleApp0106\ConsoleApp0106\bin\Debug\ConsoleApp0106.exe
+C:\멋사7기\Lion7\ConsoleApp0106\ConsoleApp0106\bin\Debug\ConsoleApp0106.pdb
+C:\멋사7기\Lion7\ConsoleApp0106\ConsoleApp0106\obj\Debug\ConsoleApp0106.csproj.AssemblyReference.cache
+C:\멋사7기\Lion7\ConsoleApp0106\ConsoleApp0106\obj\Debug\ConsoleApp0106.csproj.CoreCompileInputs.cache
+C:\멋사7기\Lion7\ConsoleApp0106\ConsoleApp0106\obj\Debug\ConsoleApp0106.exe
+C:\멋사7기\Lion7\ConsoleApp0106\ConsoleApp0106\obj\Debug\ConsoleApp0106.pdb
+C:\멋사7기\Lion7\ConsoleApp0106\ConsoleApp0106\obj\Debug\ConsoleApp0106.exe.config

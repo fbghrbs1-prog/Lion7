@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Reflection.Emit;
+using System.Runtime.InteropServices;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace project105
@@ -217,6 +219,7 @@ namespace project105
             //Console.WriteLine($"방어구 보유: {(hasArmor ? "있음" : "없음")}");
             //Console.WriteLine($"포션 보유: {(hasPotion ? "있음" : "없음")}");
             //Console.WriteLine($"건강 상태 :{(isHealthy ? "양호" : "위험")}");
+            //Console.WriteLine($"건강 상태 :{(isHealthy ? "양호" : "위험")}");
 
             //bool hp = playerHealth >= 80;
             //Console.WriteLine($"체력: {(hp ? "풀체력" : "모자름")}");
@@ -231,20 +234,10 @@ namespace project105
             //Console.WriteLine(numberAsString); //"123"
             //Console.WriteLine(flagAsString); //"true"
 
-            //int sss = 153;
-            //string sting = sss.ToString();
-            //Console.WriteLine(sting);
-            //int sd = 10 >= 5;
-            bool hd = 10;
-            콘솔 글자색/ 배경색 예제
-            Console.WriteLine("기본 색상 출력:");
-            WriteColored("초록 텍스트", ConsoleColor.Green);
-            WriteColoredWithBg("노랑 텍스트, 배경 파랑", ConsoleColor.Yellow, ConsoleColor.DarkBlue);
-
-            // 직접 설정 후 복원(예시)
-            var prevFg = Console.ForegroundColor;
-            var prevBg = Console.BackgroundColor;
-            try
+            int sss = 153;
+            string sting = sss.ToString();
+            Console.WriteLine(sting);
+            
 
 
 
