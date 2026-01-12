@@ -1,0 +1,8 @@
+C:\멋사7기\Lion7\0107-3\0107-3\obj\Debug\0107-3.csproj.AssemblyReference.cache
+C:\멋사7기\Lion7\0107-3\0107-3\obj\Debug\0107-3.csproj.CoreCompileInputs.cache
+C:\멋사7기\Lion7\0107-3\0107-3\bin\Debug\0107-3.exe.config
+C:\멋사7기\Lion7\0107-3\0107-3\bin\Debug\0107-3.exe
+C:\멋사7기\Lion7\0107-3\0107-3\bin\Debug\0107-3.pdb
+C:\멋사7기\Lion7\0107-3\0107-3\obj\Debug\0107-3.exe
+C:\멋사7기\Lion7\0107-3\0107-3\obj\Debug\0107-3.pdb
+C:\멋사7기\Lion7\0107-3\0107-3\obj\Debug\0107-3.exe.config

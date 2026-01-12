@@ -5,3 +5,4 @@ C:\멋사7기\Lion7\연습\연습\obj\Debug\연습.csproj.AssemblyReference.cach
 C:\멋사7기\Lion7\연습\연습\obj\Debug\연습.csproj.CoreCompileInputs.cache
 C:\멋사7기\Lion7\연습\연습\obj\Debug\연습.exe
 C:\멋사7기\Lion7\연습\연습\obj\Debug\연습.pdb
+C:\멋사7기\Lion7\연습\연습\obj\Debug\연습.exe.config
